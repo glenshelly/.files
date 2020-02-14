@@ -2,3 +2,5 @@ nodejs 12.16.3
 python 3.7.5
 rust   nightly
 yarn   1.21.0
+
+java adopt-openjdk-11.0.6+10
